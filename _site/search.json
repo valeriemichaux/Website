@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "path": "Contact.html",
+      "title": "Kontakt",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nLinked-In\r\n[Visit my Linked-In] (https://de.linkedin.com/in/valerie-michaux-b45629182)\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T16:36:25+02:00"
+    },
+    {
+      "path": "CV.html",
+      "title": "CV",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nOverview\r\n # My Education\r\nSkills\r\nLanguages\r\nMy work exerience\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T16:40:09+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website",
+      "description": "HELLO THERE!\n",
+      "author": [],
+      "contents": "\r\nBiography\r\nInterests\r\nWrting Photography\r\nEducation\r\nContact\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T16:36:27+02:00"
+    },
+    {
+      "path": "Publications.html",
+      "title": "Publikationen",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T16:36:29+02:00"
+    },
+    {
+      "path": "template.html",
+      "title": "My Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T16:36:30+02:00"
+    },
+    {
+      "path": "work_samples.html",
+      "title": "Arbeitsproben",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nData Visualisation\r\n[Bundestagswahl 2017] (Bundestagswahl.jpeg)\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T16:36:31+02:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,22 @@
+name: "Website"
+title: "My Website"
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  logo:
+    image: images/logo_white_large.png
+  search: TRUE
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "work samples"
+      href: work_samples.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "CV"
+      href: CV.html
+
+  href: _footer.html
+output: distill::distill_article
+
